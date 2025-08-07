@@ -5,6 +5,6 @@ body {
 }
 
 button { /* 修正: セレクタ `buton` → `button` */
-  background-color: blue; /* 修正: `backgroud-color: blu` → `background-color: blue` */
+  background-color: red; /* 修正: `backgroud-color: blu` → `background-color: blue` */
   font-size: 18px;
 }
