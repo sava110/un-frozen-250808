@@ -1,10 +1,10 @@
 body {
-  font-famly: Arial, sans-serrif; 
+  font-family: Arial, sans-serrif; 
   text-align: center;
   margin-top: 50px;
 }
 
-buton { 
-  backgroud-color: blu; 
+button { 
+  background-color: blu; 
   font-size: 18px;
 }

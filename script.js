@@ -1,7 +1,7 @@
-window.addEvenListener("load", function() { 
+window.addEventListener("load", function() { 
   const btn = document.getElementByID("myButton"); 
 
-  btn.adEventListener("click", function() { 
+  btn.addEventListener("click", function() { 
     alert("You clicked the button!")
   })
 })
