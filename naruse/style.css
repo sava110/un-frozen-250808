@@ -1,10 +1,11 @@
 body {
-  font-family: Arial, sans-serif; 
+  font-family: Arial, sans-serrif;
   text-align: center;
   margin-top: 50px;
 }
 
-button { 
-  background-color: blue; 
+button { /* 修正: セレクタ `buton` → `button` */
+  background-color: red; /* 修正: `backgroud-color: blu` → `background-color: blue` */
+
   font-size: 18px;
 }
